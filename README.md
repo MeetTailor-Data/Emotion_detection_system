@@ -21,6 +21,8 @@ An end-to-end Deep Learning system that classifies text into 6 core human emotio
 - [Installation & Setup](#-installation--setup)
 - [Usage Guide](#-usage-guide)
 - [Tech Stack](#-tech-stack)
+- [Author](#-author)
+- [License](#-license)
 
 ---
 
@@ -207,5 +209,13 @@ jupyter notebook "AI_OEP(main_file).ipynb"
 
 ---
 
+## 👤 Author
+
+**Meet Tailor**
+- **GitHub**: [@MeetTailor-Data](https://github.com/MeetTailor-Data)
+- **Email**: [meett2600@gmail.com](mailto:meett2600@gmail.com)
+
+---
+
 ## 📄 License
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source and available under the [MIT License](LICENSE) &copy; 2026 Meet Tailor.
