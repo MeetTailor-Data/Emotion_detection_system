@@ -6,6 +6,7 @@
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Latest-yellow.svg?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![NLTK](https://img.shields.io/badge/NLTK-NLP-green.svg)](https://www.nltk.org/)
 [![Accuracy](https://img.shields.io/badge/Test%20Accuracy-94.63%25-brightgreen.svg)](#-model-performance)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 An end-to-end Deep Learning system that classifies text into 6 core human emotions (**Sadness**, **Joy**, **Love**, **Anger**, **Fear**, **Surprise**). Built with an Artificial Neural Network (ANN) trained on **~400,000 text samples**, featuring custom NLP preprocessing, TF-IDF n-gram vectorization, word attribution explainability, and an interactive **Streamlit GUI**.
 
@@ -139,6 +140,7 @@ Emotion_detection_system/
 ├── backend.py                  # Prediction, pipeline inspection & explainability engine
 ├── requirements.txt            # Python dependencies
 ├── train_save.py               # Standalone training script for artifacts generation
+├── LICENSE                     # MIT License
 └── README.md                   # Project documentation
 ```
 
