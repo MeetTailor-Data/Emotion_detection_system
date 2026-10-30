@@ -1,0 +1,29 @@
+# Presentations & PDF Reports (excluded as requested)
+*.pptx
+*.ppt
+*.pdf
+AI_OEP_PPT.pptx
+OEP_Report.pdf
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# OS generated files
+.DS_Store
+Thumbs.db
